@@ -11,16 +11,27 @@ video:
 # Motivation
 
 As computer scientists, we know that computers are great at aiding in
+計算機科学者として、我々は計算機は繰り返し作業を助けることに偉大であることを知っています。
 repetitive tasks. However, far too often, we forget that this applies
+しかし、必要以上な頻度で、我々は忘れてしまう：これが適用される程度が、
+我々がプログラムにやらせたい計算と同程度に我々の計算機の利用にも適用されることを。
 just as much to our _use_ of the computer as it does to the computations
 we want our programs to perform. We have a vast range of tools
 available at our fingertips that enable us to be more productive and
 solve more complex problems when working on any computer-related
+私達は手先で利用で可能な膨大なツールを手に入れており、
+それらを通じて我々はさらに生産的になることができ、また計算機に関するありとあらゆる問題に取り組む際に
+より複雑な問題を解くことを可能にする。
 problem. Yet many of us utilize only a small fraction of those tools; we
 only know enough magical incantations by rote to get by, and blindly
 copy-paste commands from the internet when we get stuck.
+とはいえ、我々の多くはこうした道具たちの、ほんのわずかしか使えていない：
+つまり、<<要辞書>>、また、作業に詰まったときにインターネットから盲目的に
+コマンドをコピーペーストしてしまっているのである。
+
 
 This class is an attempt to address this.
+この講義では、こうした課題の解決を試みます。
 
 We want to teach you how to make the most of the tools you know, show
 you new tools to add to your toolbox, and hopefully instill in you some
