@@ -31,13 +31,18 @@ copy-paste commands from the internet when we get stuck.
 
 
 This class is an attempt to address this.
-この講義では、こうした課題の解決を試みます。
+この講義では、こうした課題の解決を企図しています。
 
 We want to teach you how to make the most of the tools you know, show
 you new tools to add to your toolbox, and hopefully instill in you some
 excitement for exploring (and perhaps building) more tools on your own.
 This is what we believe to be the missing semester from most Computer
 Science curricula.
+我々はあなたたちに普段使っているツール群をどうやって使いこなすかを教え、
+新しいツールを道具箱に加えるべく披露し、
+願わくば自力でより多くのツールを試し、もしかしたら作ってしまう楽しみを知ってもらえたら、
+と考えています。これらのことは、ほとんどの計算機科学のカリキュラムにおいて
+欠けているセメスターであると私達が信じているものです。
 
 # Class structure
 
@@ -48,6 +53,12 @@ with the content from the earlier lectures. We have lecture notes
 online, but there will be a lot of content covered in class (e.g. in the
 form of demos) that may not be in the notes. We will be recording
 lectures and posting the recordings online.
+この講座は全11回かつ各1時間の講義からなります。各講義で個別のトピックを取り上げます。
+各講義は大部分において独立していますが、学期が進むにつれてそれまでの講義内容については
+みなさんが既に慣れ親しんでいることを前提とします。
+オンラインの講義ノートがありますが、教室で展開される内容は多岐にわたる予定です。
+例えばデモ形式のものなどを想定していますが、それらは講義ノートには含まれないかもしれません。
+講義は録画され、ウェブ上に公開される予定です。
 
 We are trying to cover a lot of ground over the course of just 11 1-hour
 lectures, so the lectures are fairly dense. To allow you some time to
@@ -57,16 +68,30 @@ each lecture, we are hosting office hours where we will be present to
 help answer any questions you might have. If you are attending the class
 online, you can send us questions at
 [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
+たった11時間の講義を通じて多くの内容を取り扱おうとしているため、
+それぞれの講義はそこそこ濃いものになります。
+あなた方が講義内容に慣れ親しむために自分のペースで必要な分だけ時間を取れるようにするため、
+各講義ではいくつかの実践課題を用意しています。それらを通じて講義の鍵を掴んでもらえればと思います。
+各講義の後、オフィスアワーを設定します。そこではどんな質問にもお答えする予定です。
+もし講座にオンラインで参加する場合は、こちらに質問を送付することも可能です。
 
 Due to the limited time we have, we won't be able to cover all the tools
 in the same level of detail a full-scale class might. Where possible, we
 will try to point you towards resources for digging further into a tool
 or topic, but if something particularly strikes your fancy, don't
 hesitate to reach out to us and ask for pointers!
+与えられている時間が限られているため、今回取り扱うツールについて
+フルスケールの講義と同等の詳細さで説明することはできません。
+そこで可能な限りツールやトピックについてより深掘りできるような情報資源を提供するように心がけます。
+が、何かが特に印象に残るようなことがあれば、私達講師陣に接触して、情報資源を仰ぐようにしてください！
+
+
 
 # Topic 1: The Shell
+# トピック1：シェル
 
 ## What is the shell?
+## シェルとは何か？
 
 Computers these days have a variety of interfaces for giving them
 commands; fancyful graphical user interfaces, voice interfaces, and
